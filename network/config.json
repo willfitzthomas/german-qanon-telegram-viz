@@ -8,13 +8,13 @@
     "text": "WFT"
   },
   "text": {
-    "more": "A look at the German-speaking QAnon network on Telegram",
+    "more": "This network traces the connections of a QAnon-centric Telegram network beggining with three channels, the primary nodes: Attila Hildman, Eva Hermann and Qlobal Change.\n\nConnections are tracked through the forwarding of messages from other channels/groups into the original nodes. The number of forwards from other channels were tallied, and the top-5-most-forwarded channels were included as the secondary nodes.\n\nThe process was repeated to create a list of tertiary nodes. The forwards from other channels/groups into the tertiary nodes were tallied and included as edges as well. ",
     "intro": "A look at the German-speaking QAnon network on Telegram",
     "title": "German QAnon Telegram"
   },
   "legend": {
     "edgeLabel": "Edge description",
-    "colorLabel": "Modularitz",
+    "colorLabel": "Modularity",
     "nodeLabel": "Node description"
   },
   "features": {
